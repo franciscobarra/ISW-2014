@@ -16,3 +16,32 @@ con lo que vayas haciendo a esta cuenta en GitHub, para así ir viendo tú avanc
 y él de los demas.
 
 ---------------------------------------------------------------------------------------
+
+Caso de uso: Registrar Empleado
+Actores: Administrador
+Objetivo: Registrar empleado ingresando su; nombre, apellido, nombre de usuario, correo, horario disponible y contraseña. 
+Precondiciones: El administrador tiene que estar logeado.
+Postcondiciones: Se genera una lista de los empleados ya ingresados.
+Escenario Principal (flujo básico o normal):
+-El Administrador logea con su username y contraseña, posteriormente se desplegara un Menú de su perfil donde podrá añadir nuevos empleados. Al realizar click en añadir empleados,
+se abrirá una nueva ventana con los campos a rellenar (datos del empleado). Una vez que los campos estén correctamente ingresados, se podrá añadir el nuevo empleado.    
+
+
+Caso de uso: Modificar Empleado
+Actores: Administrador
+Objetivo: Modifica el o los datos de un empleado, estos pueden ser: nombre, apellido, nombre de usuario, correo, horario disponible y contraseña. 
+Precondiciones: El administrador tiene que estar logeado.
+Postcondiciones: Se genera una lista de los empleados existentes.
+Escenario Principal (flujo básico o normal):
+-El Administrador logea con su username y contraseña, posteriormente se desplegara un Menú de su perfil donde podrá editar los datos de un empleado. Al realizar click en editar, se abrirá una nueva ventana con los campos a editar (datos del empleado). Una vez que el o los campos estén correctamente editados, se podrá modificar el empleado.    
+
+
+
+Caso de uso: Generar Informe
+Actores: Administrador
+Objetivo: Generar un Informe en el cual se podrá ver la situación de cada empleado, por ejemplo: cantidad de citas por empleado, horarios de cada empleado. También se podrá ver
+el valor monetario de cada tipo de cita, el valor total (suma de valor de todas la citas registradas) y cuanto ha recaudado cada empleado. 
+Precondiciones: El administrador tiene que estar logeado.
+Postcondiciones: Despliega por pantalla el informe con su respectiva fecha.
+Escenario Principal (flujo básico o normal):
+-El Administrador logea con su username y contraseña, posteriormente se desplegara un Menú de su perfil donde podrá generar un informe. Al hacer click en generar informe se abrirá una ventana en donde se podrá especificar los campos que se requieran mostrar en el informe. Una vez que el o los campos estén correctamente editados, se podrá generar el informe.       
