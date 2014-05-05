@@ -23,8 +23,10 @@ Objetivo: Registrar empleado ingresando su; nombre, apellido, nombre de usuario,
 Precondiciones: El administrador tiene que estar logeado.
 Postcondiciones: Se genera una lista de los empleados ya ingresados.
 Escenario Principal (flujo básico o normal):
--El Administrador logea con su username y contraseña, posteriormente se desplegara un Menú de su perfil donde podrá añadir nuevos empleados. Al realizar click en añadir empleados,
-se abrirá una nueva ventana con los campos a rellenar (datos del empleado). Una vez que los campos estén correctamente ingresados, se podrá añadir el nuevo empleado.    
+-El Administrador logea con su username y contraseña, posteriormente se desplegara un Menú de su perfil
+donde podrá añadir nuevos empleados. Al realizar click en añadir empleados,se abrirá una nueva ventana 
+con los campos a rellenar (datos del empleado). Una vez que los campos estén correctamente ingresados, 
+se podrá añadir el nuevo empleado.    
 
 
 Caso de uso: Modificar Empleado
@@ -33,7 +35,10 @@ Objetivo: Modifica el o los datos de un empleado, estos pueden ser: nombre, apel
 Precondiciones: El administrador tiene que estar logeado.
 Postcondiciones: Se genera una lista de los empleados existentes.
 Escenario Principal (flujo básico o normal):
--El Administrador logea con su username y contraseña, posteriormente se desplegara un Menú de su perfil donde podrá editar los datos de un empleado. Al realizar click en editar, se abrirá una nueva ventana con los campos a editar (datos del empleado). Una vez que el o los campos estén correctamente editados, se podrá modificar el empleado.    
+-El Administrador logea con su username y contraseña, posteriormente se desplegara un Menú de su perfil
+donde podrá editar los datos de un empleado. Al realizar click en editar, se abrirá una nueva ventana
+con los campos a editar (datos del empleado). Una vez que el o los campos estén correctamente editados,
+se podrá modificar el empleado.    
 
 
 
@@ -44,4 +49,7 @@ el valor monetario de cada tipo de cita, el valor total (suma de valor de todas 
 Precondiciones: El administrador tiene que estar logeado.
 Postcondiciones: Despliega por pantalla el informe con su respectiva fecha.
 Escenario Principal (flujo básico o normal):
--El Administrador logea con su username y contraseña, posteriormente se desplegara un Menú de su perfil donde podrá generar un informe. Al hacer click en generar informe se abrirá una ventana en donde se podrá especificar los campos que se requieran mostrar en el informe. Una vez que el o los campos estén correctamente editados, se podrá generar el informe.       
+-El Administrador logea con su username y contraseña, posteriormente se desplegara un Menú de su perfil
+donde podrá generar un informe. Al hacer click en generar informe se abrirá una ventana en donde se podrá 
+especificar los campos que se requieran mostrar en el informe. Una vez que el o los campos estén correctamente
+editados, se podrá generar el informe.       
