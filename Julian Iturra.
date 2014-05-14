@@ -12,6 +12,18 @@ Julian Iturra:
          - El Diagrama de casos de uso es técnicamente correcto
  }
 
+PARTE POR HACER:
+
+Análisis: Modelamiento de Datos 
+
+  - El modelo de datos permite representar adecuadamente todas las entidades de información
+  - El diagrama utilizado para representar el modelo de datos es técnicamente correcto
+
+Diseño: Modelo Físico de Datos 
+
+  - El modelo físico de datos permite dar respuesta de forma adecuada las consultas del sistema
+  - El modelo físico de datos es técnicamente correcto
+  
 PD: Tienes que crear tu cuenta de GitHub (obligatoriamente) y editar este mismo archivo 
 con lo que vayas haciendo a esta cuenta en GitHub, para así ir viendo tú avance 
 y él de los demas.
